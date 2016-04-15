@@ -1,7 +1,5 @@
 % Author: Landon Soriano
 % Date: 02/02/2015
-% Class: ICS 313
-
 %% Data base for the list of people who can work, follows the 
 %% following format: 
 %% 
