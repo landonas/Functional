@@ -1,6 +1,5 @@
 % Author: Landon Soriano
 % Date: 02/02/2015
-% Class: ICS 313
 
 %%  recurses throughout the list to find possible matches.
 %% follows the people, task, result format)
