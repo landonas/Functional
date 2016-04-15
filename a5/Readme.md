@@ -1,3 +1,4 @@
+## lisp circuits
 A representation of a circuit programmed in lisp. Program has the following gates: 
 ```lisp 
 not-gate, buffer gate, and, nand, nor, or, cor, half-adder, full-adder, S-R-Flip-Flop
