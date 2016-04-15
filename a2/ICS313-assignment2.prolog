@@ -1,7 +1,5 @@
 
 %%   author: Landon Soriano
-%%   class: ICS 313
-%%   Assignment Two
 %%    02/18/2015
 %%    
 %%   contains code from: http://learnfrommike.blogspot.com/2012/09/solving-missionaries-and-cannibals.html
