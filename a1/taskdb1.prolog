@@ -1,6 +1,5 @@
 % Author: Landon Soriano
 % Date: 02/02/2015
-% Class: ICS 313
 
 %%
 %% person(ID, TASK_CAPABILITIES, AVAILABLE_HOURS)
